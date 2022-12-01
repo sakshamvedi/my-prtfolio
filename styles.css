@@ -130,13 +130,15 @@ hr {
 
 .hero .hero-heading {
   text-align: center;
-  padding-top: 1rem;
-  color: var(--dark-gray);
+  background-color:#0093E9;
+  color: white;
 }
 
 .hero .hero-heading .heading-inverted {
-  color: var(--dark-gray);
+  color: white;
 }
+
+
 
 /** sections **/
 
